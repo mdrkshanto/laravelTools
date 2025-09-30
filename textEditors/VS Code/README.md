@@ -23,13 +23,7 @@
   "[vue]": {
     "editor.defaultFormatter": "Vue.volar"
   },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
   "files.autoSaveDelay": 1e-7,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "git.openRepositoryInParentFolders": "never",
 }
 ```
