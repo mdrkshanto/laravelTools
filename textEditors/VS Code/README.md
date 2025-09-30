@@ -31,8 +31,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "git.openRepositoryInParentFolders": "never",
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
 }
 ```
