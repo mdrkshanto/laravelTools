@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eed7f660ae413e26e4b24a8c056b53de890a7cc86dd1abccef295118e632f01d
-size 1190
+<h1>Settings</h1>
+<hr/>
+
+```json
+{
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.activityBar.location": "hidden",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "bounded",
+  "explorer.expandSingleFolderWorkspaces": false,
+  "explorer.fileNesting.expand": false,
+  "typescript.experimental.expandableHover": false,
+  "explorer.autoOpenDroppedFile": false,
+  "explorer.autoReveal": false,
+  "explorer.compactFolders": false,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "files.autoSaveDelay": 1e-7,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+```
